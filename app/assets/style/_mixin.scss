@@ -1,0 +1,8 @@
+
+// 圖片取代文字(logo)
+@mixin hid-text{
+  display: block;
+  text-indent: 101%;
+  white-space: nowrap;
+  overflow: hidden;
+}
